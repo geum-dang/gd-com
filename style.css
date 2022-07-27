@@ -1,0 +1,2 @@
+input[type="radio"], div {display: none;}
+input[type="radio"]:checked+div {display: block;}
